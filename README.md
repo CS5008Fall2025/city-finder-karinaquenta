@@ -5,7 +5,7 @@ Name:Karina Quenta
 
 Github Account name: karinaquenta
 
-Link to Assignment on Github: [(copy and paste the link to your assignment repo here)](https://github.com/CS5008Fall2025/city-finder-karinaquenta/tree/main)
+Link to Assignment on Github: [https://github.com/CS5008Fall2025/city-finder-karinaquenta]
 
 How many hours did it take you to complete this assignment (estimate)? 20 hrs
 
